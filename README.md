@@ -127,7 +127,10 @@ LightGrad는 **Diffusion Probabilistic Model** 기반으로 Mel-Spectrogram을 �
 
 ---
 
-# 🏋️‍♂️ 5. 학습 과정
+# 🏋️‍♂️ 5. 사용방법
+ - ipynb 를 순차적으로 실행
+
+
 
 ---
 ### **마무리**
